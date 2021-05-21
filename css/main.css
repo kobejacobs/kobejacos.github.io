@@ -184,6 +184,9 @@ img {
       #main-footer .footer-content .social .fab:hover {
         background: #fff;
         color: #000; }
+      #main-footer a {
+        color: #fff;
+      }
       #main-footer a:visited{
         color: #fff;
       }
