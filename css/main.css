@@ -206,7 +206,7 @@ img {
       }
   #header-inner {
     height: 10rem; }
-  #home-a .process,{
+  #home-a .process{
     grid-template-columns: 1fr; }
   #home-a .specials div {
     border-bottom: 1px #f4f4f4 solid;
@@ -229,4 +229,6 @@ img {
 
 @media (max-height: 330px) {
   #header-home .header-content h1 {
-    font-size: 2rem; } }
+    font-size: 2rem; } 
+  }
+}
